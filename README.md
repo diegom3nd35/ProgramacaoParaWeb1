@@ -21,6 +21,9 @@
 ## Alguns feitos que me marcaram durante o curso.
 - Viagem para o ENUCOMP-2015 em parnaiba promovida pelo IFPI.
 
+![IMG-20151028-WA0003](https://user-images.githubusercontent.com/33493260/54568969-0056a800-49b8-11e9-8910-73e9eac20930.jpg)
+
+
 - App Finanças
 
 ![storyboard-1](https://user-images.githubusercontent.com/33493260/52680050-4aaeba00-2f1e-11e9-84f5-7489cc6cb98b.jpg)
