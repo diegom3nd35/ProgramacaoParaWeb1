@@ -18,9 +18,10 @@
   - 1 Ser Empresário.
   - 2 Se tudo der errado vou ser professor do IFPI.
   
-## Alguns feitos me marcaram durante o curso.
-
+## Alguns feitos que me marcaram durante o curso.
+- Viagem para o ENUCOMP-2015 em parnaiba promovida pelo IFPI.
 
 - App Finanças
+
 ![storyboard-1](https://user-images.githubusercontent.com/33493260/52680050-4aaeba00-2f1e-11e9-84f5-7489cc6cb98b.jpg)
 
