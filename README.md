@@ -8,9 +8,10 @@
 
 ## IFPI / Tec. Informática / ADS (2013.2 -  ∞)
 - Aprendi um pouco sobre as seguintes linguagens:
-  - C, JAVA, PYTHON, ANDROID e HTML/CSS/JAVA SCRIPT 
+  - C, JAVA, PYTHON, ANDROID, SQL e HTML/CSS/JAVA SCRIPT 
 - Aprendi um pouco sobre analise de um sistema
-  - Primeiro se faz o projeto depois vai para o código.   
+  - Primeiro se faz o projeto depois vai para o código.
+- Pibic - LaPeSi
 
 ## O que eu gosto?
 - Gosto de tecnologia, e cada vez mais me surpreendo dos beneficios que ela pode trazer pra nossa sociedade.
